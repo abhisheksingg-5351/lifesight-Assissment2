@@ -1,8 +1,8 @@
 # **Marketing Mix Model for Revenue Forecasting**
 
-### **Project Author: Gaurav Kumar**
+### **Project Author: Abhishek Kumar**
 
-### **Contact: gauravkumar688504@gmail.com**
+### **Contact: abhisheksingg363@gmail.com**
 
 ### **Date Updated: September 15, 2025**
 
